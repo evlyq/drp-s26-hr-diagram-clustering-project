@@ -56,17 +56,14 @@ Future work could improve and extend the analysis by:
 
 ***
 
-## Authors
+## Author
 
-**[Elisa Liang]**
-
-Women in Mathematics Directed Research Program (S26) — [University of Waterloo]
+Independent research project by **Elisa Liang** as part of the Women in Mathematics Directed Research Program (S26) at the University of Waterloo, supervised by mentors Téa Fazio and Gaia Noseworthy.
 
 ***
 
 ## Acknowledgements
 
-[This research project was supervised by mentors Téa Fazio and Gaia Noseworthy]
 Project was performed in reference to work by [Amelia Robles Delgaro](https://github.com/Ameliarbls/gaia-hr-diagram) and [Rohan Paul](https://github.com/rohanpauldev/hr-diagram-clustering-gaia-dr3)
 
 
